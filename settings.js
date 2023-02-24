@@ -15,10 +15,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916201114061'] //ur owner number
+global.owner = ['17734447777'] //ur owner number
 global.ownername = "ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ" //ur owner name
-global.ytname = "•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•" //ur yt chanel name
-global.socialm = "🤞•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•🤞" //ur github or insta name
+global.ytname = "ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ" //ur yt chanel name
+global.socialm = "🤞ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ🤞" //ur github or insta name
 global.location = "India, Jharkhand, Latehar,Balumath" //ur location
 
 //bot bomdy 
@@ -29,9 +29,9 @@ global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme u
 global.websitex = "https:// no" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "  👸🏻•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•" //ur sticker watermark packname
-global.author = "   •s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "👸🏻•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•." //ur watermark
+global.packname = "  👸🏻ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ" //ur sticker watermark packname
+global.author = "   ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.wm = "👸🏻ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ." //ur watermark
 
 // Other
 global.sessionName = 'session'
