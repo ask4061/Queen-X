@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['17734447777'] //ur owner number
-global.ownername = "ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ" //ur owner name
-global.ytname = "ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ" //ur yt chanel name
-global.socialm = "🤞ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ🤞" //ur github or insta name
+global.owner = ['916201114061'] //ur owner number
+global.ownername = "ツニ•S•u•⌈r⌉•a•j•ニツ" //ur owner name
+global.ytname = "ツニ•S•u•⌈r⌉•a•j•ニツ" //ur yt chanel name
+global.socialm = "🤞ツニ•S•u•⌈r⌉•a•j•ニツ🤞" //ur github or insta name
 global.location = "India, Jharkhand, Latehar,Balumath" //ur location
 
 //bot bomdy 
 global.ownernomer = "916201114061" //ur number
 global.premium = ['916201114061'] //ur premium number
-global.botname = 'ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ' //ur bot name
+global.botname = 'ツニ•S•u•⌈r⌉•a•j•ニツ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "  👸🏻ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ" //ur sticker watermark packname
-global.author = "   ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "👸🏻ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ." //ur watermark
+global.packname = "  👸🏻ツニ•S•u•⌈r⌉•a•j•ニツ" //ur sticker watermark packname
+global.author = "   ツニ•S•u•⌈r⌉•a•j•ニツ\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.wm = "👸🏻ツニ•S•u•⌈r⌉•a•j•ニツ." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -40,9 +40,9 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: '*👸🏻💭Here you go!*',
-    admin: '*👸🏻💭This feature could be used by admins only!*',
-    botAdmin: '*👸🏻💭Bot Must Be Admin First!*',
+    success: '*👸🏻💭 Suraj Here you go!*',
+    admin: '*👸🏻💭Suraj This feature could be used by admins only!*',
+    botAdmin: '*👸🏻💭 Suraj Must Be Admin First!*',
     premime: '*👸🏻💭Premium Special Features If You Want to Register Type Rent*',
     owner: '*👸🏻💭This feature could be used by owner only*',
     group: '*👸🏻💭Features Used Only For Groups!*',
