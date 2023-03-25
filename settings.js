@@ -16,22 +16,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['916201114061'] //ur owner number
-global.ownername = "ツニ•S•u•⌈r⌉•a•j•ニツ" //ur owner name
-global.ytname = "ツニ•S•u•⌈r⌉•a•j•ニツ" //ur yt chanel name
-global.socialm = "🤞ツニ•S•u•⌈r⌉•a•j•ニツ🤞" //ur github or insta name
+global.ownername = "" //ur owner name
+global.ytname = "🇦ʟɪﮩﮩ٨ــ❤‍🩹🔐𓆪" //ur yt chanel name
+global.socialm = "🤞🇦ʟɪﮩﮩ٨ــ❤‍🩹🔐𓆪" //ur github or insta name
 global.location = "India, Jharkhand, Latehar,Balumath" //ur location
 
 //bot bomdy 
 global.ownernomer = "916201114061" //ur number
 global.premium = ['916201114061'] //ur premium number
-global.botname = 'ツニ•S•u•⌈r⌉•a•j•ニツ' //ur bot name
+global.botname = '🇦ʟɪﮩﮩ٨ــ❤‍🩹🔐𓆪' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "  👸🏻ツニ•S•u•⌈r⌉•a•j•ニツ" //ur sticker watermark packname
-global.author = "   ツニ•S•u•⌈r⌉•a•j•ニツ\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "👸🏻ツニ•S•u•⌈r⌉•a•j•ニツ." //ur watermark
+global.packname = "  👸🏻🇦ʟɪﮩﮩ٨ــ❤‍🩹🔐𓆪" //ur sticker watermark packname
+global.author = "   🇦ʟɪﮩﮩ٨ــ❤‍🩹🔐𓆪\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.wm = "👸🏻🇦ʟɪﮩﮩ٨ــ❤‍🩹🔐𓆪." //ur watermark
 
 // Other
 global.sessionName = 'session'
