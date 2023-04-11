@@ -17,21 +17,21 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['916201114061'] //ur owner number
 global.ownername = "" //ur owner name
-global.ytname = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪" //ur yt chanel name
-global.socialm = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪" //ur github or insta name
+global.ytname = "Suraj❤️❤‍🩹🔐𓆪" //ur yt chanel name
+global.socialm = "Suraj❤️❤‍🩹🔐𓆪" //ur github or insta name
 global.location = "India, Jharkhand, Latehar,Balumath" //ur location
 
 //bot bomdy 
 global.ownernomer = "916201114061" //ur number
 global.premium = ['916201114061'] //ur premium number
-global.botname = '🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪' //ur bot name
+global.botname = 'Suraj❤️❤‍🩹🔐𓆪' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "  👸🏻🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪" //ur sticker watermark packname
-global.author = "   🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪." //ur watermark
+global.packname = "  👸🏻Suraj❤️❤‍🩹🔐𓆪" //ur sticker watermark packname
+global.author = "   Suraj❤️❤‍🩹🔐𓆪\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.wm = "Suraj❤️❤‍🩹🔐𓆪." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -40,9 +40,9 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: '*👸🏻💭 🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪 Here you go!*',
-    admin: '*👸🏻💭🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪 This feature could be used by admins only!*',
-    botAdmin: '*👸🏻💭 🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪 Must Be Admin First!*',
+    success: '*👸🏻💭 Suraj Here you go!*',
+    admin: '*👸🏻💭Suraj This feature could be used by admins only!*',
+    botAdmin: '*👸🏻💭 Suraj❤️❤‍🩹🔐𓆪 Must Be Admin First!*',
     premime: '*👸🏻💭Premium Special Features If You Want to Register Type Rent*',
     owner: '*👸🏻💭This feature could be used by owner only*',
     group: '*👸🏻💭Features Used Only For Groups!*',
